@@ -1,0 +1,25 @@
+OTU_ID	sample01	sample02	sample06	sample03	sample08	sample04	sample07	sample05	taxon	mean identity	ref ids
+OTU0	43	354	0	0	0	0	0	0	unassigned	0	
+OTU1	0	2009	0	0	0	0	0	31	unassigned	0	
+OTU2	0	183	0	0	0	0	0	0	unassigned	0	
+OTU3	0	87	0	0	0	0	0	0	unassigned	0	
+OTU4	24	0	20	0	320	0	60	11	unassigned	0	
+OTU5	0	271	0	0	0	0	0	0	root_1;cellularroot_cellular_organisms_131567;domain_Eukaryota_2759;clade_Opisthokonta_33154;kingdom_Metazoa_33208;clade_Eumetazoa_6072;clade_Bilateria_33213;clade_Deuterostomia_33511;phylum_Chordata_7711;subphylum_Craniata_89593;clade_Vertebrata_7742;clade_Gnathostomata_7776;clade_Teleostomi_117570;clade_Euteleostomi_117571;superclass_Sarcopterygii_8287;clade_Dipnotetrapodomorpha_1338369;clade_Tetrapoda_32523;clade_Amniota_32524;class_Mammalia_40674;clade_Theria_32525;clade_Eutheria_9347;clade_Boreoeutheria_1437010;superorder_Euarchontoglires_314146;clade_Glires_314147;order_Rodentia_9989;suborder_Hystricomorpha_33550;family_Myocastoridae_10155;genus_Myocastor_10156;species_Myocastor coypus_10157	0.969	MH182628.1.1079.2640;MF325938.1.1079.2646;AF422886.1.<1.>547
+OTU6	0	70	8	0	11	1	52	16	unassigned	0	
+OTU7	118	0	0	0	0	0	0	0	unassigned	0	
+OTU8	0	1190	0	0	0	0	60	1444	root_1;cellularroot_cellular_organisms_131567;domain_Eukaryota_2759;clade_Opisthokonta_33154;kingdom_Metazoa_33208;clade_Eumetazoa_6072;clade_Bilateria_33213;clade_Deuterostomia_33511;phylum_Chordata_7711;subphylum_Craniata_89593;clade_Vertebrata_7742;clade_Gnathostomata_7776;clade_Teleostomi_117570;clade_Euteleostomi_117571;superclass_Actinopterygii_7898;class_Actinopteri_186623;subclass_Neopterygii_41665;infraclass_Teleostei_32443;clade_Osteoglossocephalai_1489341;clade_Clupeocephala_186625;cohort_Euteleosteomorpha_1489388;clade_Neoteleostei_123365;clade_Eurypterygia_123366;clade_Ctenosquamata_123367;clade_Acanthomorphata_123368;clade_Euacanthomorphacea_123369;clade_Percomorphaceae_1489872;clade_Eupercaria_1489922;norank_Eupercaria incertae sedis_1489923;family_Moronidae_42148;genus_Dicentrarchus_13488;species_Dicentrarchus punctatus_94946	0.919	AF247437.1.<1.>572;KJ168066.1.1094.2790
+OTU9	0	0	95	0	0	0	0	1331	unassigned	0	
+OTU10	22	0	17	256	255	0	72	1134	unassigned	0	
+OTU11	0	0	0	130971	0	0	0	0	unassigned	0	
+OTU12	0	533	190	0	0	3058	0	0	unassigned	0	
+OTU13	0	0	117	0	87	0	0	778	root_1;cellularroot_cellular_organisms_131567;domain_Eukaryota_2759;clade_Opisthokonta_33154;kingdom_Metazoa_33208;clade_Eumetazoa_6072;clade_Bilateria_33213;clade_Deuterostomia_33511;phylum_Chordata_7711;subphylum_Craniata_89593;clade_Vertebrata_7742;clade_Gnathostomata_7776;clade_Teleostomi_117570;clade_Euteleostomi_117571;superclass_Actinopterygii_7898;class_Actinopteri_186623;subclass_Neopterygii_41665;infraclass_Teleostei_32443;clade_Osteoglossocephalai_1489341;clade_Clupeocephala_186625;cohort_Euteleosteomorpha_1489388;clade_Neoteleostei_123365;clade_Eurypterygia_123366;clade_Ctenosquamata_123367;clade_Acanthomorphata_123368;clade_Euacanthomorphacea_123369;clade_Percomorphaceae_1489872;clade_Carangaria_1489904;order_Pleuronectiformes_8252;suborder_Pleuronectoidei_30942;family_Soleidae_30948;genus_Pegusa_432165	0.9336666666666668	AB125245.1.<1.>543;AF112848.1.<572.1;AF112849.1.<572.1
+OTU14	0	0	1202	0	0	0	0	3092	unassigned	0	
+OTU15	0	0	0	1626	0	0	0	0	unassigned	0	
+OTU16	0	241597	6350	0	680	0	24845	13296	unassigned	0	
+OTU17	19	24886	2595	59	392	5	13660	26589	unassigned	0	
+OTU18	0	136275	624	0	1102	0	1755	603	unassigned	0	
+OTU19	83	1779	27	165	93	26	65	51899	unassigned	0	
+OTU20	5284	156	4151	22688	10130	2426	28107	12103	unassigned	0	
+OTU21	62	0	0	0	0	0	0	0	unassigned	0	
+OTU22	109	0	0	0	0	0	0	0	unassigned	0	
+OTU23	0	45	0	0	8	0	0	0	root_1;cellularroot_cellular_organisms_131567;domain_Eukaryota_2759;clade_Opisthokonta_33154;kingdom_Metazoa_33208;clade_Eumetazoa_6072;clade_Bilateria_33213;clade_Protostomia_33317;clade_Spiralia_2697495;clade_Lophotrochozoa_1206795;phylum_Mollusca_6447;class_Gastropoda_6448;subclass_Caenogastropoda_69555;order_Littorinimorpha_216294;superfamily_Rissooidea_55730;family_Rissoidae_122955;genus_Rissoa_195038	0.9296666666666668	GU177962.1.<1.>337;AF445343.1.<1.>485;MG663166.1.<1.>484

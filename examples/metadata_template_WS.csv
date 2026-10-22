@@ -1,0 +1,9 @@
+﻿samp_name,recordedBy,project_contact,project_id,assay_type,pcr_0_1,assay_name,targetTaxonomicAssay,pcr_primer_forward,pcr_primer_reverse,samp_category,decimalLongitude,decimalLatitude,geo_loc_name,eventDate,env_broad_scale,env_local_scale,env_medium,lib_id,seq_run_id,eventID,parentEventID
+sample01,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample02,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample03,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample04,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample05,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample06,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample07,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
+sample08,Pascal,Pascal,ANERIS,metabarcoding,1,ANERIS_CS2_16S,fish,16S_F,16S_R,sample,-2.051,45.123,North Sea,01.01.2026,marine biome,sub-surface,water column,1,1,ANERIS_CS2_Belgium_station1,ANERIS_CS2
