@@ -78,6 +78,7 @@ When the QC report shows no errors, check the archive with the [GBIF Data Valida
 
 ## Acknowledgements
 
+This work was partially funded by the European Union through the ANERIS project under Horizon Europe (Grant Agreement No. 101094924).
 Built on outputs of eDNAqua-Plan, funded by the European Union under Horizon Europe (Grant Agreement No. 101112800).
 
 ## License
