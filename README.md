@@ -51,11 +51,7 @@ python edna2dwca.py --otu otus.tsv --metadata metadata.csv \
 |---|---|
 | `--otu` (required) | OTU/ASV table: ID, one column per sample, taxonomy string |
 | `--metadata` (required) | Sample metadata, one row per sample (template builder output) |
-| `--config` | JSON: dataset description (EML), creators, licence, primers, default values |
 | `--fasta` | Representative sequences (headers = OTU IDs); fills `DNA_sequence` |
-| `--min-reads` | Minimum reads for an occurrence record |
-| `--unassigned keep\|drop` | Keep unassigned OTUs (as `Biota`, default) or drop them |
-| `--strict` | Non-zero exit code if the QC report has errors |
 | `-o` | Output name |
 
 **Output**
