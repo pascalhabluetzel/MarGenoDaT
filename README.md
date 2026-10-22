@@ -11,7 +11,7 @@ Metabarcoding outputs differ by bioinformatics pipeline, are rarely well documen
 
 ```
 template builder ──► metadata.csv ─┐
-                                    ├──► edna2dwca.py ──► dataset.zip + QC report ──► IPT (GBIF/OBIS)
+                                    ├──► edna2dwca.py ──► dataset.zip + QC 
 pipeline output ──► otus.tsv ──────┘
 ```
 
@@ -42,12 +42,9 @@ Options: semicolon separator (European Excel), guidance rows under the header, a
 Command-line converter. Requires **Python ≥ 3.8**, standard library only – nothing to install.
 
 ```bash
-# Optional: create a dataset config to fill in
-python edna2dwca.py --write-config-template dataset_config.json
-
 # Build the archive
 python edna2dwca.py --otu otus.tsv --metadata metadata.csv \
-                    --config dataset_config.json --fasta otus.fasta -o my_dataset
+                    --fasta otus.fasta -o my_dataset
 ```
 
 | Option | Content |
@@ -78,15 +75,6 @@ When the QC report shows no errors, check the archive with the [GBIF Data Valida
 - [Publishing DNA-derived data through biodiversity data platforms](https://docs.gbif.org/publishing-dna-derived-data/en/)
 - [GSC MIxS](https://genomicsstandardsconsortium.github.io/mixs/), [FAIRe](https://fair-edna.github.io/), [ENVO](https://www.ebi.ac.uk/ols4/ontologies/envo)
 - eDNAqua-Plan [D3.2 – Best practices for eDNA data repositories](https://zenodo.org/records/18833237) and [eDNA Data Management Plan template](https://zenodo.org/records/20714902)
-
-## Status and roadmap
-
-Early prototype. Planned:
-- Automatic taxon name matching against WoRMS and the GBIF backbone
-- Exclude **auto** fields from the template by default
-- Support for more pipeline output formats
-
-Issues and pull requests are welcome.
 
 ## Acknowledgements
 
